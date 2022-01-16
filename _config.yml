@@ -82,10 +82,7 @@ html_escape:
 
 # Everything below here should be left alone. Modifications may break fastpages
 future: true
-# Support Google Analytics ID starting with "GA-"
-# ref: https://yukiibe.github.io/articles/google-analytics-4-error-on-jekyll-and-solution
-# theme: minima
-remote_theme: jekyll/minima
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-gist
